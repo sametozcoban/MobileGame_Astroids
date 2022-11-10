@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# UNT0014: Invalid type for call to GetComponent
+dotnet_diagnostic.UNT0014.severity = suggestion
